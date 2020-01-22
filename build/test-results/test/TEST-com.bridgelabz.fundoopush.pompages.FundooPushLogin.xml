@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.fundoopush.pompages.FundooPushLogin" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-01-22T13:55:54" hostname="admin" time="25.41">
+  <properties/>
+  <testcase name="userLogin[0](usahu998@gmail.com, 123456)" classname="com.bridgelabz.fundoopush.pompages.FundooPushLogin" time="5.3"/>
+  <testcase name="userLogin[1](abc@gmail.com, abc@12345)" classname="com.bridgelabz.fundoopush.pompages.FundooPushLogin" time="4.981"/>
+  <testcase name="userLogin[2](, abc@12345)" classname="com.bridgelabz.fundoopush.pompages.FundooPushLogin" time="4.785"/>
+  <testcase name="userLogin[3](abc@gmail.com, )" classname="com.bridgelabz.fundoopush.pompages.FundooPushLogin" time="5.178"/>
+  <testcase name="userLogin[4](abc@gmail.com, abc@12345)" classname="com.bridgelabz.fundoopush.pompages.FundooPushLogin" time="5.157"/>
+  <system-out><![CDATA[usahu998@gmail.com123456
+abc@gmail.comabc@12345
+abc@12345
+abc@gmail.com
+abc@gmail.comabc@12345
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
